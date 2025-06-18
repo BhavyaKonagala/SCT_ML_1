@@ -1,4 +1,4 @@
-# House Price Prediction
+# SCT_ML_1
 To implement a Linear Regression model that predicts the price of a house based on key features such as:
 - 📏 Square footage (area of the house)  
 - 🛏️ Number of bedrooms  
